@@ -1,3 +1,3 @@
-#include "pole.h"
+#include "czlowiek.h"
 
 
